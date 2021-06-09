@@ -1,0 +1,11 @@
+Requerimientos
+
+Tener kali linux instalado e instalar las dependencias ("curl" "php" "xterm" "zenity" "Ngrok")
+
+Tanto el curl y php ya viene instalados de fabrica por kali
+
+zenity: https://zoomadmin.com/HowToInstall/UbuntuPackage/zenit
+
+Ngrok: https://ngrok.com/download
+
+Xterm: https://howtoinstall.co/es/xterm
