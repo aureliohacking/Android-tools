@@ -1,0 +1,395 @@
+
+=====================
+[+] SMS messages dump
+=====================
+
+Date: 2021-06-05 00:06:53.154306404 +0200
+OS: Android 11 - Linux 4.4.250-OniiChanKernel-Faham-R-4.0+ (aarch64)
+Remote IP: 192.168.1.8
+Remote Port: 39673
+
+#1
+Type	: Incoming
+Date	: 2021-06-04 23:25:41
+Address	: 87619
+Status	: NOT_RECEIVED
+Message	: @papa merece un equipo que lo haga celebrar! Regalale smartphone y si pagas con tarjetas de bancos aliados te devolvemos hasta $350.000. https://zgz.nu/FKsNUlpr
+
+#2
+Type	: Incoming
+Date	: 2021-06-03 00:05:11
+Address	: 32665
+Status	: NOT_RECEIVED
+Message	: ù§ÑMSeÄCI§Ñ¡ CeCAJISiCeAXCgA¿eKMKeKÑGSCgAHKA&'Y¡lKABAZÑLCGKE§§WÑF§Ä§fKiiSÑOgÑ¡¤Kga§ÑIKAHKgCGiSmCeA¿CeCAHKgCGiSmCeAX§gA&'AHKAhkAFkKÑiCAHKAøCGKE§§WAJÑAJgiKAÖkÄKe§AHKAFKYkYCeÑ¡¤Kga§ÑIKABskICA¿CeCAlKeAZCgAÜaGS§ÑKgÑ¡&KA¿kKIKÑABaYSGCeAFCeO§gA¿§eA&'Ñ
+
+#3
+Type	: Incoming
+Date	: 2021-06-03 00:04:49
+Address	: 85572
+Status	: NOT_RECEIVED
+Message	: <#> 38891 es tu codigo de Facebook H29Q+Fsn4Sr
+
+#4
+Type	: Incoming
+Date	: 2021-05-31 19:14:11
+Address	: 892220
+Status	: NOT_RECEIVED
+Message	: Daviplata y Western Union, te dan la opcion de recibir tu giro internacional directo en tu billetera, solicitalo rapido y facil, aca accivalores.com/abonogiro
+
+#5
+Type	: Incoming
+Date	: 2021-05-29 17:22:09
+Address	: 899035
+Status	: NOT_RECEIVED
+Message	: ¡Puntualizate de Gases del Caribe te premia con una Tablet Lenovo! Ingresa a www.gascaribe.com utiliza 100 de tus puntos acumulados y juega Conectados. Ganan los 30 usuarios con el mayor numero de puntos. Consulta TyC en: www.gascaribe.com
+
+#6
+Type	: Incoming
+Date	: 2021-05-21 04:04:46
+Address	: 85126
+Status	: NOT_RECEIVED
+Message	: Encuentra tu iPhone favorito en las promo de CYBER DAYS Movistar con un precio increibles y no dejes pasar eta oportunidad https://zgz.nu/FKsa0crj Aplica TyC
+
+#7
+Type	: Incoming
+Date	: 2021-05-20 22:38:16
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: Compra 2GB por SOLO $5MIL, ademas tienes Minutos Ilimitados por 3 dias. Ve a tu punto de recargas o entra a b.tigo.com/pqn25 Aplican TyC
+
+#8
+Type	: Incoming
+Date	: 2021-05-20 21:16:17
+Address	: 85888
+Status	: NOT_RECEIVED
+Message	: Es momento de optimizar sus gastos, no permita que los antojos o gustos de momento lo descuadren a fin de mes,descubra aqui como hacerlo https://bit.ly/2X4Iy20
+
+#9
+Type	: Incoming
+Date	: 2021-05-20 17:55:22
+Address	: 899035
+Status	: NOT_RECEIVED
+Message	: ¡Sorprende a mama con ese celular, esa Tablet, y ese televisor que tanto quiere! Utiliza tu Cupo Brilla en nuestros establecimientos aliados, y consulta con tu asesor como puedes agrandar tu cupo hasta $6.000.000, para que le regales a mama lo ultimo en tecnologia! Brilla, Creciendo Contigo. Consulta TyC en: https://gcaribe.co/XlS8
+
+#10
+Type	: Incoming
+Date	: 2021-05-20 16:52:12
+Address	: 85594
+Status	: NOT_RECEIVED
+Message	: JeA participa en la 8va convocatoria de Pro-Talento y aprovecha las oportunidades en el mundo de la tecnologia. Fecha limite de postulacion: 26 de mayo de 2021. Link de postulacion: https://protalento.org/me-quiero-postular/. Dudas: admisiones@protalento.org
+
+#11
+Type	: Incoming
+Date	: 2021-05-18 15:39:28
+Address	: 6700
+Status	: NOT_RECEIVED
+Message	: REGALO POR TU RECARGA. Recibe GRATIS 320 MB para navegar HOY con una recarga de $2.000 o mas. Aplican TyC
+
+#12
+Type	: Incoming
+Date	: 2021-05-15 01:45:34
+Address	: 87619
+Status	: NOT_RECEIVED
+Message	: @Haremos que tu insomnio valga la pena! No dejes pasar trasnochon Movistar con precios increibles, del 14 al 17 de mayo. https://zgz.nu/Fvqm1lX4
+
+#13
+Type	: Incoming
+Date	: 2021-05-14 23:21:59
+Address	: 6700
+Status	: NOT_RECEIVED
+Message	: REGALO POR TU RECARGA. Recibe GRATIS 320 MB para navegar HOY con una recarga de $2.000 o mas. Aplican TyC
+
+#14
+Type	: Incoming
+Date	: 2021-05-12 22:40:25
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: AHORA MAS DATOS! Tu Paquete de $6Mil x 6dias da 1GB (antes 170MB) + WhatsApp +Facebook + Min Ilimitados. Ve a tu punto de recarga o en b.tigo.com/pqn7 AplicaTC
+
+#15
+Type	: Incoming
+Date	: 2021-05-11 18:37:37
+Address	: 899035
+Status	: NOT_RECEIVED
+Message	: ¡APROVECHA! Financia el SOAT y la Revision Tecnico-mecanica de tu vehiculo con tu Cupo BRILLA. Llamanos al 3223077122. Puntos de venta en https://bit.ly/3iHaO3x
+
+#16
+Type	: Incoming
+Date	: 2021-05-10 21:41:26
+Address	: 85594
+Status	: NOT_RECEIVED
+Message	: ¿JeA eres estudiante de un programa tecnico, tecnologico o universitario y estas buscando tu practica? Participa en ESTADO JOVEN y realizala con una entidad del Estado, con un auxilio de 1 SMMLV. Conoce los terminos de referencia y postulate aqui: https://bit.ly/3nV6MYp. Reunion de socializacion de la convocatoria: Lunes 10 de mayo, a las 4:00 pm. Link: https://tinyurl.com/EstadoJoven2
+
+#17
+Type	: Incoming
+Date	: 2021-05-09 21:21:53
+Address	: 85675
+Status	: NOT_RECEIVED
+Message	: Para Tigo tu experiencia en el proceso de recarga es muy importante. Por favor contesta esta encuesta: https://b.tigo.com/x46sftjlby
+
+#18
+Type	: Incoming
+Date	: 2021-05-08 17:47:08
+Address	: 821
+Status	: NOT_RECEIVED
+Message	: Quieres seguir hablando? Responde este mensaje y Tigo te adelanta saldo si cumples el criterio de prestamo. Lo prestado se descontara de la proxima recarga
+
+#19
+Type	: Incoming
+Date	: 2021-05-07 23:52:57
+Address	: 85205
+Status	: NOT_RECEIVED
+Message	: @FDS con ofertas en smartphones Motorola! Compra tu favorito del 06 al 10 de mayo, no dejes pasar esta oferta exclusiva online. Mas: https://zgz.nu/F4N8R8Py
+
+#20
+Type	: Incoming
+Date	: 2021-05-07 17:30:00
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Ser Prepago Tigo te da mas beneficios. Ahora recarga desde $3.000 y recibe DATOS GRATIS. Hazlo HOY y redime tu regalo en b.tigo.com/lup6 Aplican TyC
+
+#21
+Type	: Incoming
+Date	: 2021-05-07 07:31:27
+Address	: TIGOINFO
+Status	: NOT_RECEIVED
+Message	: Hemos descontado 1200 de tu cuenta para el pago de tu deuda. Queda pendiente de cobro 0 del servicio Adelanta Saldo. Gracias por usar nuestros servicios!
+
+#22
+Type	: Incoming
+Date	: 2021-05-07 07:31:26
+Address	: TIGOINFO
+Status	: NOT_RECEIVED
+Message	: Tu nuevo saldo es $2000. AHORA tus recargas desde $5.000 te dan automaticamente WHATSAPP x 7, 15 o 30 dias GRATIS! Aplican TyC rb.gy/onlize
+
+#23
+Type	: Incoming
+Date	: 2021-05-07 07:31:25
+Address	: TIGOINFO
+Status	: NOT_RECEIVED
+Message	: Si tienes plan prepago Tigo llama a Todo Dest Nal $3/seg; SMS $60; Datos $0,146/KB. Tus recargas desde $3000 te regalan datos. Redimelos en https://b.tigo.com/s
+
+#24
+Type	: Incoming
+Date	: 2021-05-07 07:31:07
+Address	: 87624
+Status	: NOT_RECEIVED
+Message	: Felicitaciones! Usted ha recibido 2000 COP de un amigo. Gracias.
+
+#25
+Type	: Incoming
+Date	: 2021-05-07 07:31:04
+Address	: 821
+Status	: NOT_RECEIVED
+Message	: Tu recarga ha sido exitosa! Tu nuevo saldo es 2001 para consultar tu saldo entra al menu *111# opcion mi cuenta-mi saldo.
+
+#26
+Type	: Incoming
+Date	: 2021-05-07 07:30:45
+Address	: 85686
+Status	: NOT_RECEIVED
+Message	: 911077 es tu código de verificación, válido por 15 minutos.[Kwai]
+
+#27
+Type	: Incoming
+Date	: 2021-05-05 22:03:59
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: AHORA MAS DATOS! Tu Paquete de $6Mil x 6 Dias da 1GB (antes 170MB) + WhatsApp +Facebook + Min Ilimitados. Ve a tu punto de recarga o en b.tigo.com/pqn1 AplicaTC
+
+#28
+Type	: Incoming
+Date	: 2021-05-05 17:10:49
+Address	: INFOTIGO
+Status	: NOT_RECEIVED
+Message	: El celular es hoy una herramienta muy importante, para comunicacion, trabajo, entretenimiento y mas. Conoce tips para mejorar su desempeno en b.tigo.com/tipspre
+
+#29
+Type	: Incoming
+Date	: 2021-05-01 00:44:00
+Address	: 85204
+Status	: NOT_RECEIVED
+Message	: Mama no te dice lo que quiere, te da se ales, y merece lo mejor, por eso regalale un smartphone y te devolvemos hasta $350.000 https://zgz.nu/Fuu4SOEV
+
+#30
+Type	: Incoming
+Date	: 2021-04-28 02:06:17
+Address	: 85594
+Status	: NOT_RECEIVED
+Message	: En el Gobierno del Presidente Duque, trabajamos para ampliar, extender y garantizar los programas de subsidios para apoyar a las familias vulnerables del pais
+
+#31
+Type	: Incoming
+Date	: 2021-04-28 00:03:17
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: Tus paquetes favoritos Tigo ahora tienen MAS DATOS para navegar. Ve a tu punto de recargas y compra el tuyo. Aplican TyC. #EstamosDeTuLado
+
+#32
+Type	: Incoming
+Date	: 2021-04-26 20:27:28
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: Quieres WhatsApp GRATIS por 15 d?as? Compra un paquete prepago desde $6.000 hasta el 30 de abril. Hazlo en mi.tigo.com.co o en tu punto de recargas. Aplican TyC
+
+#33
+Type	: Incoming
+Date	: 2021-04-23 22:54:35
+Address	: 85205
+Status	: NOT_RECEIVED
+Message	: @Weekend Sale Nokia! Lleva tu smartphone favorito con una promo exclusiva online, del 23 al 26 de abril. Hasta 14% dcto. Mas: https://zgz.nu/Fuu-wuGi
+
+#34
+Type	: Incoming
+Date	: 2021-04-23 18:14:00
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: En Tigo te cuidamos! Recibe GRATIS 15 dias de Whatsapp por comprar paquetes desde $6.000. Estas con Tigo, estas primero! Encuentralo en Mi.tigo.com.co AplicaTC
+
+#35
+Type	: Incoming
+Date	: 2021-04-22 21:24:04
+Address	: 899440
+Status	: NOT_RECEIVED
+Message	: Telegram code: 24953 You can also tap on this link to log in: https://t.me/login/24953
+
+#36
+Type	: Incoming
+Date	: 2021-04-22 20:33:33
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: Tus paquetes favoritos Tigo ahora tienen MAS DATOS para navegar. Ve a tu punto de recargas o entra a mi.tigo.com.co y compra el tuyo. AplicaTC. #EstamosDeTuLado
+
+#37
+Type	: Incoming
+Date	: 2021-04-21 16:52:24
+Address	: 85557
+Status	: NOT_RECEIVED
+Message	: G-696410 es tu c?digo de verificaci?n de Google.
+
+#38
+Type	: Incoming
+Date	: 2021-04-20 21:36:54
+Address	: 85594
+Status	: NOT_RECEIVED
+Message	: Participa en la convocatoria de Bancolombia "Talento B" y preparate para tu practica laboral a traves de la solucion de retos reales de la industria. Conoce mas en: https://bit.ly/2QtYKJB. Inscribete aqui https://bit.ly/3tCC6NT para los webinars en donde se aclararan dudas. Fecha limite de inscripcion: 3 de mayo.
+
+#39
+Type	: Incoming
+Date	: 2021-04-20 18:33:09
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: Quieres WhatsApp GRATIS por 15 dias? Compra un paquete prepago desde $6.000 hasta el 26 de abril. Hazlo en mi.tigo.com.co o en tu punto de recargas. Aplican TyC
+
+#40
+Type	: Outgoing
+Date	: 2021-04-19 00:58:12
+Address	: 899960
+Status	: NOT_RECEIVED
+Message	: (N8NLVJ8N9LFc) Nueva verif. de SIM de Google https://goo.gl/LHCS9W
+
+#41
+Type	: Incoming
+Date	: 2021-04-18 03:40:16
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: 751214 es tu codigo de confirmacion. POR TU SEGURIDAD NO LO COMPARTAS CON NADIE.
+
+#42
+Type	: Incoming
+Date	: 2021-04-16 20:45:47
+Address	: TIGOPROMO
+Status	: NOT_RECEIVED
+Message	: AHORA MAS DATOS! Tu Paquete de $6Mil x 6 Dias da 1GB (antes 170MB) + WhatsApp +Facebook + Min Ilimitados. Ve a tu punto de recarga o en b.tigo.com/nopr AplicaTC
+
+#43
+Type	: Incoming
+Date	: 2021-04-13 22:18:37
+Address	: 85888
+Status	: NOT_RECEIVED
+Message	: Para tomar buenas decisiones financieras requiere de buenos habitos a la hora de manejar su plata, encuentre aqui como lograrlo https://bit.ly/2Jsz4pG
+
+#44
+Type	: Incoming
+Date	: 2021-04-13 16:30:02
+Address	: 892220
+Status	: NOT_RECEIVED
+Message	: En tu Daviplata ahora puedes recibir tu giro Western Union sin costo y el mismo dia que solicitas el abono Pide el servicio aca https://bit.ly/3eUrpQ3
+
+#45
+Type	: Incoming
+Date	: 2021-04-12 16:50:22
+Address	: 85594
+Status	: NOT_RECEIVED
+Message	: JeA participa en la 7ma convocatoria de Pro-Talento y aprovecha las oportunidades en el mundo de la tecnologia. Fecha limite: 21 de abril de 2021. Link de postulacion: https://protalento.org/me-quiero-postular/
+
+#46
+Type	: Incoming
+Date	: 2021-04-10 19:52:58
+Address	: 85040
+Status	: NOT_RECEIVED
+Message	: @Weekend Sale Motorola! Lleva tu smartphone favorito con una promo exclusiva online, del 09 al 12 de abril. Hasta 20% de dto.! Mas: https://zgz.nu/FbUyiUSu
+
+#47
+Type	: Incoming
+Date	: 2021-04-10 18:49:52
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: 597297 es tu codigo de confirmacion. POR TU SEGURIDAD NO LO COMPARTAS CON NADIE.
+
+#48
+Type	: Incoming
+Date	: 2021-04-09 18:49:42
+Address	: 893331
+Status	: NOT_RECEIVED
+Message	: Felicitaciones. Tu pin esta listo para ser redimido, el codigo es: 7506205389661887. Terminos y condiciones en www.posa.com.co/terminos
+
+#49
+Type	: Incoming
+Date	: 2021-04-09 18:48:01
+Address	: 890159
+Status	: NOT_RECEIVED
+Message	: YISETH le envio $9,500 Pago . Tiene 24 horas para aceptarla en su entidad financiera o se cancelara. Conozca mas https://bit.ly/transfiya
+
+#50
+Type	: Incoming
+Date	: 2021-04-09 18:35:23
+Address	: 87718
+Status	: NOT_RECEIVED
+Message	: Usted esta intentando usar su DaviPlata en otro celular? Si es asi, digite el codigo 071097. De lo contrario no comparta este codigo con terceros
+
+#51
+Type	: Incoming
+Date	: 2021-04-01 16:18:30
+Address	: 85888
+Status	: NOT_RECEIVED
+Message	: Su incentivo de Jovenes en Accion puede ser retirado de su DaviPlata desde el 01 de Abril. Conozca todo lo que puede hacer con DaviPlata http://dav.ac/fdytqsgo
+
+#52
+Type	: Incoming
+Date	: 2021-03-30 16:03:17
+Address	: INFOTIGO
+Status	: NOT_RECEIVED
+Message	: En Tigo creemos que cosas buenas suceden cuando hay mas #MujeresConectadas. En el mes de la mujer, conoce que hacemos para lograrlo en b.tigo.com/mujerpre
+
+#53
+Type	: Incoming
+Date	: 2021-03-28 03:44:45
+Address	: 899440
+Status	: NOT_RECEIVED
+Message	: <#> Código Snapchat: 486503. ¡Feliz Snapping!qunyt57f5Rf
+
+#54
+Type	: Incoming
+Date	: 2021-03-28 01:00:42
+Address	: 891122
+Status	: NOT_RECEIVED
+Message	: Codigo de WhatsApp: 697-951 O sigue este enlace para verificar tu numero: v.whatsapp.com/697951 No compartas este codigo con nadie.
+
+#55
+Type	: Incoming
+Date	: 2021-03-28 00:37:33
+Address	: 3014452669
+Status	: NOT_RECEIVED
+Message	: Tigo te informa que el 27-03-21 18:20 el 3014452669 te hizo 2 llamada(s).
+
